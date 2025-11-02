@@ -65,16 +65,16 @@ An "interactive Power BI dashboard" was created to visualize and summarize findi
 
 🚀 How to Run the Project
 1. Clone the Repository
-"git clone https://github.com/yourusername/customer-shopping-behavior-analysis.git
+"git clone https://github.com/Nipun2635/customer-shopping-behavior-analysis.git
 cd customer-shopping-behavior-analysis"
 
-2. Install Required Libraries
+3. Install Required Libraries
 "pip install -r requirements.txt"
 
-3. Run the Notebook
+4. Run the Notebook
 "jupyter notebook customer_behavior_analysis.ipynb"
 
-4. SQL Analysis
+5. SQL Analysis
 * Import cleaned dataset into PostgreSQL.
 * Execute queries from `business_queries.sql` file.
 
